@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, Eu sou Julha!
+**Estudante de Análise e Desenvolvimento de Sistemas na FIAP**
 
-<!--
-**Julhaalmeida/Julhaalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Apaixonada por Tecnologia, Psicologia e Desenvolvimento Web**
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou focada no aprendizado e prática de **Python**, **JavaScript** e **Desenvolvimento Web**.
+
+## O que eu faço
+
+- Desenvolvo soluções em **back-end** com Python e JavaScript
+- Trabalho com **estruturas de dados**, algoritmos e **lógica de programação**
+- Estou sempre em busca de **novos desafios** e oportunidades de crescimento na área de TI
+- Adoro aprender e compartilhar conhecimentos com a comunidade
+
+## Objetivos atuais
+
+- Aprimorar minhas habilidades em **arquitetura de software** e **engenharia de software**
+- Aplicar meus conhecimentos em projetos reais como estagiária ou trainee
+- Contribuir para o mundo com tecnologia que faça a diferença
+
+## 🔗 Links
+
+- [Meu LinkedIn](https://www.linkedin.com/in/julha-almeida)
+
+
+## Tecnologias que eu estou aprendendo
+
+- **Python**
+- **JavaScript** (Node.js, React)
+- **Banco de Dados Relacional**
+- **Lógica de Programação e Estruturas de Dados**
+
+
