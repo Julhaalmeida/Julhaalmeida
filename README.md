@@ -1,35 +1,9 @@
-# Olá, Eu sou Julha!
-**Estudante de Análise e Desenvolvimento de Sistemas na FIAP**
+Olá! Eu sou a Julha Almeida 👋
 
-**Apaixonada por Tecnologia, Psicologia e Desenvolvimento Web**
+- Estudante de Análise e Desenvolvimento de Sistemas - FIAP  
+Back-End | Lógica de Programação | Web Development  
+Em transição de carreira da Psicologia para a Tecnologia  
+Contato: julha.aalmeida@gmail.com
 
-## Sobre Mim
-
-Atualmente, estou focada no aprendizado e prática de **Python**, **JavaScript** e **Desenvolvimento Web**.
-
-## O que eu faço
-
-- Desenvolvo soluções em **back-end** com Python e JavaScript
-- Trabalho com **estruturas de dados**, algoritmos e **lógica de programação**
-- Estou sempre em busca de **novos desafios** e oportunidades de crescimento na área de TI
-- Adoro aprender e compartilhar conhecimentos com a comunidade
-
-## Objetivos atuais
-
-- Aprimorar minhas habilidades em **arquitetura de software** e **engenharia de software**
-- Aplicar meus conhecimentos em projetos reais como estagiária ou trainee
-- Contribuir para o mundo com tecnologia que faça a diferença
-
-## 🔗 Links
-
-- [Meu LinkedIn](https://www.linkedin.com/in/julha-almeida)
-
-
-## Tecnologias que eu estou aprendendo
-
-- **Python**
-- **JavaScript** (Node.js, React)
-- **Banco de Dados Relacional**
-- **Lógica de Programação e Estruturas de Dados**
 
 
