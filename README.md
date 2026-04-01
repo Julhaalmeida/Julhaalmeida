@@ -1,12 +1,6 @@
 
 # Olá, eu sou a Julha Almeida! 👋
 
-### 👩‍💻 Desenvolvedora Backend em construção
-
-Estou focada em aprender Node.js e banco de dados, transformando café em código e resolvendo desafios de API.
-
----
-
 ### 🛠️ Tecnologias que utilizo:
 <div align="left">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" hspace="5" />
