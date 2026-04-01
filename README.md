@@ -8,10 +8,5 @@
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" hspace="5" />
 </div>
 
-### 📊 Minhas estatísticas:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Julhaalmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
----
-
 ### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] [https://www.linkedin.com/in/julha-almeida]
